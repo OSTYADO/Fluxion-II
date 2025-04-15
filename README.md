@@ -6,10 +6,7 @@
 <img src="https://files.catbox.moe/2zvckc.jpg"/>
 </p>
   
-<p align="center">
 
-[![OSTYADO](https://github.com/OSTYADO.png?lenght=50width=50)](https://github.com/OSTYADO)
-</p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FLUXION+BAILEYS+WHATSAPP+BOT" alt="">
 </p>
