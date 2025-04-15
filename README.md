@@ -31,6 +31,11 @@
 <p align="centre">
 <a href="https://fluxion-xmd.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
+## `Deploy on panel`
+<p align="centre">
+<a href="https://www.mediafire.com/file/eaffbrnntazk24f/𝕱𝖑𝖚𝖝𝖎𝖔𝖓+𝖎𝖎.zip/file"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<p/>
+
  
 
 ## ` Contact me`
