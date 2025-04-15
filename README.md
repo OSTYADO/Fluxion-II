@@ -1,6 +1,6 @@
 # 𝙁𝙇𝙐𝙓𝙄𝙊𝙉 𝙄𝙄
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+RAVEN-MD;MULTI+DEVICE+WHATSAPP+BOT;CODED+BY+NICK;PUBLIC+RELEASED; ...;TEAM RAVEN-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=FLUXION-II;MULTI+DEVICE+WHATSAPP+BOT;CODED+BY+OSTYADO; ...;FLUXION II" alt="Typing SVG" /></a>
   </p>
   <p align="center">
 <img src="https://files.catbox.moe/2zvckc.jpg"/>
