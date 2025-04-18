@@ -19,8 +19,7 @@
 <a href="https://github.com/OSTYADO/Fluxion-II/network/members"><img title="Fork" src="https://img.shields.io/github/forks/OSTYADO/Fluxion-II?style=social"></a>
 <a href="https://github.com/OSTYADO/Fluxion-II/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OSTYADO/Fluxion-II?label=Watching&style=social"></a>
 </p>
-## ` Notice`
--Fluxion runs on panels as of now. Working on it to run on other Deployment sites like Heroku and Replit
+
 
 ## ` Fork this repo`
 <p align="centre">
@@ -47,7 +46,8 @@
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
-
+## Notice
+- Fluxion runs on panels as of now. Working on it to run on other Deployment sites like Heroku and Replit
 
 ## DISCLAIMER
 - The bot may cause errors when you try to modify any of the file
