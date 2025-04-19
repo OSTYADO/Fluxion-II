@@ -21,6 +21,7 @@ global.autostatusReact = true; // Default: disabled
 global.reactEmoji = '😀';
 global.antiforeign = ""
 global.antibot = false;
+global.antidel = false
 //Thank you for using FLUXION-XMD
 
 
