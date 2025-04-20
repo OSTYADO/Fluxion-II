@@ -73,6 +73,6 @@ let handler = async (m, { client, text, res, quoted, reaction, prefix, command }
 
 handler.help = ['downloader music']
 handler.tags = ['downloader']
-handler.command = ["play2"]
+handler.command = ["play"]
 
 module.exports = handler
