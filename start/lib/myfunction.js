@@ -9,7 +9,7 @@ const moment = require('moment-timezone')
 const { sizeFormatter } = require('human-readable')
 const util = require('util')
 const { defaultMaxListeners } = require('stream')
-const { read, MIME_JPEG, RESIZE_BILINEAR, AUTO, jimp } = require('jimp')
+const { read, MIME_JPEG, RESIZE_BILINEAR, AUTO, jimp } = require('jimp-compact')
 
 const unixTimestampSeconds = (date = new Date()) => Math.floor(date.getTime() / 1000)
 
