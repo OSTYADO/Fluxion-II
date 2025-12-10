@@ -1,6 +1,6 @@
 
 
-const { extractMessageContent, jidNormalizedUser, proto, delay, getContentType, areJidsSameUser, generateWAMessage } = require("@whiskeysockets/baileys")
+const { extractMessageContent, jidNormalizedUser, proto, delay, getContentType, areJidsSameUser, generateWAMessage } = require("@ostyado/baileys")
 const chalk = require('chalk')
 const fs = require('fs')
 const Crypto = require('crypto')
