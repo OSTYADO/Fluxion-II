@@ -1,0 +1,22 @@
+{
+  "AUTO_TYPING": false,
+  "AUTO_RECORDING": false,
+  "ANTI_LINK": true,
+  "ANTI_DELETE":false,
+  "AUTO_BIO":true,
+  "ANTI_MENTIONGC":true,
+  "AUTO_STATUSVIEW":true,
+  "AUTO_STATUSREACT":true,
+  "PREFIX":".",
+  "AUTO_BIO_TEXT":"𝙿𝚎𝚘𝚙𝚕𝚎 𝚌𝚘𝚖𝚎 𝚊𝚗𝚍 𝙶𝚘.𝙵𝚘𝚌𝚞𝚜 𝚘𝚗 𝚈𝚘𝚞𝚛𝚜𝚎𝚕𝚏.𝙵𝙻𝚄𝚇𝙸𝙾𝙽😤",
+  "ANTI_PROMOTE":false,
+  "ANTI_DEMOTE":false,
+  "WELCOME":true,
+  "GROUP_EVENTS":false,
+  "AUTO_READ":false,
+  "ANTI_BOT":false,
+  "ANTI_TAG":false,
+  "ANTI_BAD_WORD":false,
+  "ANTI_CALL":false
+  
+}
