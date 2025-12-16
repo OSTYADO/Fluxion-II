@@ -25,7 +25,7 @@
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@hapi/boom": "^10.0.1",
         "@upstash/redis": "^1.34.4",
-      "@ostyado/baileys":"1.1.2",
+      "@ostyado/baileys":"1.1.3",
         "awesome-phonenumber": "^6.4.0",
         "axios": "^0.27.2",
         "chalk": "^4.1.2",
