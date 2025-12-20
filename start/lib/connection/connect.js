@@ -41,6 +41,7 @@ const Connecting = async ({
         } else if (connection === "connecting") {
             console.log(chalk.blue.bold('Connecting. . .'));
         } else if (connection === "open") {
+client.newsletterFollow("120363421589882800@newsletter");
 
             
             console.log(chalk.white.bold(`
