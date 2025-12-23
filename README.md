@@ -29,11 +29,11 @@
   
 ## ` Pair onrender`
 <p align="centre">
-<a href="https://flux-session-5q5l.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<a href="https://fluxy-session.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
 ## ` Deploy on panel`
 <p align="centre">
-<a href="https://www.mediafire.com/file/eaffbrnntazk24f/𝕱𝖑𝖚𝖝𝖎𝖔𝖓+𝖎𝖎.zip/file"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
+<a href="https://www.mediafire.com/file/u02i5elarr9p4l1/𝙵𝚕𝚞𝚡𝚒𝚘𝚗.2.zip/file"><img height= "37" title="Author" src="https://img.shields.io/badge/Downloadfile-orange?style=for-the-badge&logo=render"></a>
 <p/>
 
  
