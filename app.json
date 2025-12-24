@@ -1,0 +1,41 @@
+
+{
+  "name": "Fluxion-md",
+  "version": "2.2.3",
+  "description": "Fluxy world stuffs",
+  "logo": "https://files.catbox.moe/2zvckc.jpg",
+  "keywords": ["whatsapp", "baileys bot", "fluxy", "MD"],
+  "repository": "https://github.com/OSTYADO/Fluxion-II",
+  "stack": "container",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": "FLUXION~nx5H1KCL#u_CNbz6vJossiTvq0AaxIrxTZHLkhHE2RFR-2d7aHCM"
+    },
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "required": false,
+      "value": "254712345678"
+
+    }
+    },  
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+  }
+  
